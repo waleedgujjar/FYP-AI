@@ -12,7 +12,7 @@ import { Generate } from "./components/generate";
 import { Dashboard } from "./routes/dashboard";
 import ContactUsPage from "./routes/contact";
 import About from "./routes/about";
-import Service from "./routes/service";
+import Service from "./routes/Service";
 import CreateEditPage from "./routes/create-edit-page";
 import { MockLoadPage } from "./routes/mock-load-page";
 import { MockInterviewPage } from "./routes/mock-interview-page";
