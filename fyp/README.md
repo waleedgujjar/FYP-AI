@@ -34,7 +34,7 @@ To run this project locally, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/waleedgujjar/FYP-AI/tree/main/fyp
 cd ai-mock-interview
 
 
